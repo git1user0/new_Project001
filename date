@@ -1,0 +1,5 @@
+public class date{
+    public static void main(String[] ars){
+        System.out.print("today i stated my account 12/13/2024");
+    }
+}
