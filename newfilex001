@@ -1,1 +1,6 @@
-public class super{}
+public class super{
+    public static void main(String[] args){
+        System.out.print("hundred")
+    }
+}
+
